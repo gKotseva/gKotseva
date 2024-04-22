@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gabriela Kotseva</h1>
-<h3 align="center">A passionate individual currently learning JavaScript in SoftUni.</h3>
+<h3 align="center">A passionate individual currently working on expanding my knowledge in programming.</h3>
 
 <h3>:school: Education</h3>
 <ul>
-  <li>Software University (2022-ongoing) - Professional degree in Software Engineering</li>
+  <li>Software University (2022-2024) - Professional degree in Software Engineering</li>
 </ul>
 
 <h3>:woman_technologist: Work</h3>
